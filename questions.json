@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "choice1": "Central Process Unit",
+    "choice2": "Central Processing Unit",
+    "choice3": "Computer Personal Unit",
+    "choice4": "Central Processor Utility",
+    "answer": 2
+  },
+  {
+    "question": "Which device is used to input data into a computer?",
+    "choice1": "Monitor",
+    "choice2": "Printer",
+    "choice3": "Keyboard",
+    "choice4": "Speaker",
+    "answer": 3
+  },
+  {
+    "question": "Which of these is an operating system?",
+    "choice1": "Microsoft Word",
+    "choice2": "Google",
+    "choice3": "Linux",
+    "choice4": "Intel",
+    "answer": 3
+  },
+  {
+    "question": "What type of file is a '.jpg'?",
+    "choice1": "Text file",
+    "choice2": "Image file",
+    "choice3": "Video file",
+    "choice4": "Audio file",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "choice1": "Python",
+    "choice2": "Java",
+    "choice3": "HTML",
+    "choice4": "Firefox",
+    "answer": 4
+  },
+  {
+    "question": "What does RAM stand for?",
+    "choice1": "Random Access Memory",
+    "choice2": "Ready Access Memory",
+    "choice3": "Readable And Manageable",
+    "choice4": "Run Active Memory",
+    "answer": 1
+  },
+  {
+    "question": "What is the main function of the ALU in a computer?",
+    "choice1": "Store data",
+    "choice2": "Perform arithmetic and logic operations",
+    "choice3": "Control input/output",
+    "choice4": "Display results",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is used to connect to the internet?",
+    "choice1": "Keyboard",
+    "choice2": "Mouse",
+    "choice3": "Modem",
+    "choice4": "Scanner",
+    "answer": 3
+  },
+  {
+    "question": "What is the full form of URL?",
+    "choice1": "Uniform Resource Locator",
+    "choice2": "Uniform Retrieval Link",
+    "choice3": "Unidentified Resource Location",
+    "choice4": "Universal Redirect Link",
+    "answer": 1
+  },
+  {
+    "question": "What is the brain of the computer?",
+    "choice1": "RAM",
+    "choice2": "Hard Disk",
+    "choice3": "CPU",
+    "choice4": "Monitor",
+    "answer": 3
+  },
+  {
+    "question": "Which part of the computer is used to store data permanently?",
+    "choice1": "RAM",
+    "choice2": "ROM",
+    "choice3": "Hard Disk",
+    "choice4": "Cache",
+    "answer": 3
+  },
+  {
+    "question": "What does HTML stand for?",
+    "choice1": "HyperText Markup Language",
+    "choice2": "HighText Machine Language",
+    "choice3": "Hyperloop Machine Language",
+    "choice4": "High Transmission Markup Language",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "choice1": "Windows",
+    "choice2": "Google Chrome",
+    "choice3": "MS Word",
+    "choice4": "Linux",
+    "answer": 2
+  },
+  {
+    "question": "Which key is used to refresh a webpage?",
+    "choice1": "Ctrl + R",
+    "choice2": "Shift + R",
+    "choice3": "Alt + R",
+    "choice4": "F1",
+    "answer": 1
+  },
+  {
+    "question": "Which company developed the Windows OS?",
+    "choice1": "Apple",
+    "choice2": "Google",
+    "choice3": "IBM",
+    "choice4": "Microsoft",
+    "answer": 4
+  },
+  {
+    "question": "What does 'www' stand for in a website browser?",
+    "choice1": "World Web Website",
+    "choice2": "World Wide Web",
+    "choice3": "Web World Wide",
+    "choice4": "Web World Web",
+    "answer": 2
+  },
+  {
+    "question": "What does a compiler do?",
+    "choice1": "Executes the program line by line",
+    "choice2": "Translates high-level language to machine code",
+    "choice3": "Stores data",
+    "choice4": "Connects computer to the internet",
+    "answer": 2
+  },
+  {
+    "question": "Which programming language is best known for web development?",
+    "choice1": "Java",
+    "choice2": "C++",
+    "choice3": "HTML",
+    "choice4": "Python",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a mobile operating system?",
+    "choice1": "Linux",
+    "choice2": "Android",
+    "choice3": "Windows 10",
+    "choice4": "macOS",
+    "answer": 2
+  },
+  {
+    "question": "Which symbol is used to write comments in C++?",
+    "choice1": "//",
+    "choice2": "##",
+    "choice3": ";;",
+    "choice4": "\\\\",
+    "answer": 1
+  }
+]
